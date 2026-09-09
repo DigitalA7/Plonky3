@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [parcours en français sur les STARK](docs/fr/) relie AIR, traces, engagements, FRI, Fiat–Shamir et vérification aux modules de Plonky3.
+
 ![Plonky3-powered-by-polygon](https://github.com/Plonky3/Plonky3/assets/86010/7ec356ad-b0f3-4c4c-aa1d-3a151c1065e7)
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Plonky3/Plonky3/blob/main/LICENSE-MIT)
